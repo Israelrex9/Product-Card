@@ -116,6 +116,7 @@ button:hover{
       align-items: center;
       justify-content: center;
       height: 100vh;
+      margin: 20px;
     }
 
     #card{
@@ -131,13 +132,15 @@ button:hover{
     img{
         border-radius: 10px 10px 0px 0px;
         height: 100%;
+        align-items: center;
+        justify-content: center;
+        object-fit: cover;
     }
     
     .image {
-        width: 320px;
-        height: 100%;
+        width: 340px;
+        height: 350px;
         object-fit: cover;
-        border-radius: 10px 10px 0px 0px;
     }
 
     .container{
