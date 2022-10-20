@@ -140,7 +140,6 @@ button:hover{
     .image {
         width: 340px;
         height: 350px;
-        object-fit: cover;
     }
 
     .container{
